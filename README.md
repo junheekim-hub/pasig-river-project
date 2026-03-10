@@ -37,6 +37,6 @@ Quantification of waste composition & water quality degradation
 3. **"48% Plastic = 576kg"** Community Campaign
 
 ## 📄 Presentation Materials
-[pasig_river_poster.pdf](pasig_river_poster.pdf)
+[pasig_river_poster.pdf](pasig_river_poster.png)
 
 **Science Club Presentation | github.com/iannan/pasig-river-project
