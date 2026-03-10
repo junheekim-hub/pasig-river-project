@@ -84,4 +84,4 @@ A low-cost prototype for real-time pollution monitoring at the community level.
 * **WWF Philippines (2024).** *Project Ayos: Sustainable Waste Management in the Pasig River Basin.*
 
 ---
-**Science Club Presentation | [github.com/iannan/pasig-river-project](https://github.com/iannan/pasig-river-project)**
+**Science Club Presentation | [https://github.com/junheekim-hub/pasig-river-project](https://github.com/junheekim-hub/pasig-river-project)**
