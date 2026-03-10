@@ -69,4 +69,22 @@ To quantify waste composition and water quality degradation by integrating field
 - [**Field Research Evidence (Photos)**](Field_Research_Evidence_Pasig_River.png)
 
 ---
+
+## 📚 References & Literature Review
+
+### 1. Official Government Guidelines
+* **DENR (2016).** *Water Quality Guidelines and General Effluent Standards.* Administrative Order No. 2016-08. (Used as a baseline for pH and Turbidity analysis).
+* **Environmental Management Bureau (EMB) (2024).** *National Water Quality Status Report: Pasig River System.* DENR Philippines.
+* **LLDA (Laguna Lake Development Authority) & PRRC.** *Historical Water Quality Data for the Pasig River Basin.*
+
+### 2. Academic & International Research
+* **Meijer, L. J., et al. (2021).** *More than 1000 rivers as the main source of ocean plastic into the oceans.* Science Advances. (Identified Pasig River as the #1 plastic source globally).
+* **The Ocean Cleanup (2025).** *River Plastic Emissions Data: Focus on Metro Manila Waterways.* [Online Database]. (Correlated with our 2026 field sampling points).
+* **United Nations Environment Programme (UNEP) (2023).** *Plastic Pollution to Solution: Global Water Quality Guidelines.*
+
+### 3. Community & Ecology
+* **World Wide Fund for Nature (WWF) Philippines (2024).** *Project Ayos: Sustainable Waste Management in the Pasig River Basin.*
+
+---
+
 **Science Club Presentation | [github.com/iannan/pasig-river-project](https://github.com/iannan/pasig-river-project)**
