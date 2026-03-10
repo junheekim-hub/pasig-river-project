@@ -36,4 +36,7 @@ Quantification of waste composition & water quality degradation
 2. **PET-degrading microbes** (75% degradation/6 weeks)
 3. **"48% Plastic = 576kg"** Community Campaign
 
+## 📄 Presentation Materials
+[pasig_river_poster.pdf](pasig_river_poster.pdf)
+
 **Science Club Presentation | github.com/iannan/pasig-river-project
