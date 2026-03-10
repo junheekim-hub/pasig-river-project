@@ -46,7 +46,7 @@ Quantification of waste composition & water quality degradation
 **Methods peer-reviewed & globally reproducible**
 
 ## 📄 Presentation Materials
-[pasig_river_poster.pdf](pasig_river_poster.png)
+[pasig_river_poster.pdf](pasig_river_poster.png)<br>
 [Field Research Evidence](Field_Research_Evidence_Pasig_River.png)
 
 **Science Club Presentation | github.com/iannan/pasig-river-project
