@@ -47,5 +47,6 @@ Quantification of waste composition & water quality degradation
 
 ## 📄 Presentation Materials
 [pasig_river_poster.pdf](pasig_river_poster.png)
+[Field Research Evidence](Field_Research_Evidence_Pasig_River.png)
 
 **Science Club Presentation | github.com/iannan/pasig-river-project
