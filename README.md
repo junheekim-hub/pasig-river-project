@@ -39,9 +39,9 @@ Quantification of waste composition & water quality degradation
 
 ## 🌍 Global Impact
 **This research independently verified 2025 ScienceDirect findings**
-✓ 34 microplastics via 0.35mm field filtration [2018 Pasig study method]
-✓ Plastic 48% exceeds DENR baseline by 45%
-✓ 12-day degradation tracking (Feb 7-19, 2026)
+**✓ 34 microplastics via 0.35mm field filtration [2018 Pasig study method]**
+**✓ Plastic 48% exceeds DENR baseline by 45%**
+**✓ 12-day degradation tracking (Feb 7-19, 2026)**
 
 **Methods peer-reviewed & globally reproducible**
 
