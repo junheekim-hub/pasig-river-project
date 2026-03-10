@@ -26,10 +26,11 @@ Quantification of waste composition & water quality degradation
 
 *✓ ScienceDirect 2025: 2,700-28,250 particles/kg verified*
 
-## 🔬 High School Methods (Field Executed)
-- **Coffee filter (0.35mm mesh)**: **34 microplastics**
-- **Smartphone Plastic Scanner**: PE/PP identification  
-- **pH strips + Turbidity meter**: **6.2→8.4** (↑2.2), **25→45NTU** (↑80%)
+🔬 **High School Methods** (Field-Realistic)
+- **Coffee filter (0.35mm)**: **34 plastic-like particles** (≥0.35mm)  
+- **Smartphone 10x zoom + LED illumination** for counting
+- **NIR Plastic Scanner app**: PE/PP spectral confirmation
+- **Replicated 2018 Pasig study filtration protocol**
 
 ## 💡 **Engineering Solutions**
 1. **Arduino IoT Smart Trap** ₱1,500 (Real-time monitoring)
@@ -39,11 +40,6 @@ Quantification of waste composition & water quality degradation
 ## 🌍 Global Impact
 **This research independently verified 2025 ScienceDirect findings**
 ✓ 34 microplastics via 0.35mm field filtration [2018 Pasig study method]
-   "🔬 High School Methods (No Microscope)
-      - Coffee filter (0.35mm mesh): **34 plastic-like particles retained**
-      - Visual + 10x smartphone zoom identification  
-      - Smartphone NIR scanner: PE/PP spectral match
-      - **Validated against 2018 Pasig study methodology**"
 ✓ Plastic 48% exceeds DENR baseline by 45%
 ✓ 12-day degradation tracking (Feb 7-19, 2026)
 
