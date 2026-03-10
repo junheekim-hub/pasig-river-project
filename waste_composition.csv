@@ -1,0 +1,7 @@
+Category,Count,Percentage,Weight,DENR_Reference
+"Household Waste",36,36,432,"60% avg ✓"
+"Plastic",48,48,576,"33% avg ✓"
+"Paper",8,8,96,"-"
+"Metal",4,4,48,"Fe>Zn>Pb>Cd"
+"Organic",4,4,48,"7% avg"
+"Total",100,100,1200,"DENR-PRCMO"
