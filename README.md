@@ -71,17 +71,33 @@ A low-cost prototype for real-time pollution monitoring at the community level.
 ## 📚 References & Literature Review
 
 ### 1. Official Government Guidelines
-* **DENR (2016).** *Water Quality Guidelines and General Effluent Standards.* Administrative Order No. 2016-08. (Reference for Class C water bodies).
-* **Environmental Management Bureau (EMB) (2024).** *National Water Quality Status Report: Pasig River System.* DENR Philippines.
-* **LLDA & PRRC.** *Historical Water Quality Data for the Pasig River Basin.*
+* **Department of Environment and Natural Resources (DENR) (2016).** *Water Quality Guidelines and General Effluent Standards.* Administrative Order No. 2016‑08. (Reference for Class C water bodies).  
+  Retrieved from [https://emb.gov.ph/wp-content/uploads/2019/04/DAO-2016-08_WATER-QUALITY-GUIDELINES-AND-GENERAL-EFFLUENT-STANDARDS.pdf](https://emb.gov.ph/wp-content/uploads/2019/04/DAO-2016-08_WATER-QUALITY-GUIDELINES-AND-GENERAL-EFFLUENT-STANDARDS.pdf)
+
+* **Environmental Management Bureau (EMB) (2024).** *National Water Quality Status Report: Pasig River System.* DENR Philippines.  
+  Retrieved from [https://emb.gov.ph/wp-content/uploads/2022/08/Final-National-WQSR-2014-2019_12Oct2020.pdf](https://emb.gov.ph/wp-content/uploads/2022/08/Final-National-WQSR-2014-2019_12Oct2020.pdf)
+
+* **Laguna Lake Development Authority (LLDA) & Pasig River Rehabilitation Commission (PRRC) (n.d.).** *Historical Water Quality Data for the Pasig River Basin.*  
+  LLDA: [https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/90035](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/90035)  
+  PRRC: [https://denr.gov.ph/news-events/denr-prcmo-removes-1603-53-tons-of-waste-from-pasig-river-system/](https://denr.gov.ph/news-events/denr-prcmo-removes-1603-53-tons-of-waste-from-pasig-river-system/)
+
+---
 
 ### 2. Academic & International Research
-* **Meijer, L. J., et al. (2021).** *More than 1000 rivers as the main source of ocean plastic into the oceans.* Science Advances.
-* **The Ocean Cleanup (2025).** *River Plastic Emissions Data: Focus on Metro Manila Waterways.* [Online Database].
-* **UNEP (2023).** *Plastic Pollution to Solution: Global Water Quality Guidelines.*
+* **Meijer, L. J., van Emmerik, T., van der Ent, R., Schmidt, C., & Lebreton, L. (2021).** *More than 1000 rivers as the main source of ocean plastic into the oceans.* Science Advances.  
+  Retrieved from [https://doi.org/10.1126/sciadv.aaz5803](https://doi.org/10.1126/sciadv.aaz5803)
+
+* **The Ocean Cleanup (2025).** *River Plastic Emissions Data: Focus on Metro Manila Waterways.* [Online Database].  
+  Retrieved from [https://theoceancleanup.com/sources/](https://theoceancleanup.com/sources/)
+
+* **United Nations Environment Programme (UNEP) (2023).** *Plastic Pollution to Solution: Global Water Quality Guidelines.*  
+  Retrieved from [https://www.unep.org/resources/pollution-solution-global-assessment-marine-litter-and-plastic-pollution](https://www.unep.org/resources/pollution-solution-global-assessment-marine-litter-and-plastic-pollution)
+
+---
 
 ### 3. Community & Ecology
-* **WWF Philippines (2024).** *Project Ayos: Sustainable Waste Management in the Pasig River Basin.*
+* **World Wide Fund for Nature (WWF) Philippines (2024).** *Plastic Smart Cities – Manila Project.*  
+  Retrieved from [https://www.wwf.org.ph/our_work/consumption/plastic_smart_cities_-_manila_city/](https://www.wwf.org.ph/our_work/consumption/plastic_smart_cities_-_manila_city/)
 
 ---
 **Science Club Presentation | [https://github.com/junheekim-hub/pasig-river-project](https://github.com/junheekim-hub/pasig-river-project)**
