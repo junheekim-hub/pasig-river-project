@@ -68,6 +68,10 @@ A low-cost prototype for real-time pollution monitoring at the community level.
 
 ---
 
+<p align="center">
+  <img src="pasig_river_poster.png" width="90%">
+</p>
+
 ## 📚 References & Literature Review
 
 ### 1. Official Government Guidelines
